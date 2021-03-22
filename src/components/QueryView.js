@@ -19,7 +19,7 @@ const useStyles = makeStyles({
         'margin-left': '75px',
     },
     provider: {
-        fontSize: 14,
+        fontSize: 15,
     },
     card: {
         borderStyle: "ridge",
