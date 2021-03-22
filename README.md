@@ -8,4 +8,5 @@ To run application:
 - type `npm start`
 
 ### how to run docker
+- type `docker pull ristoz/projectcomp4350q1`
 - type `docker run -p 3000:3000 ristoz/projectcomp4350q1`
